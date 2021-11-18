@@ -1,4 +1,4 @@
-# Web-development---CoWIN-Page-clone
+# Web-development CoWIN Page clone
 Created a Webpage responsive for big screen.
 
 <b>CoWIN Page (Static webpage)</b>
