@@ -12,4 +12,4 @@ Languages used
   
 <b>WEBSITE LINK</b>
 <br>
-<a href="cowinapp.ccbp.tech">Click here</a>
+<a href="https://cowinapp.ccbp.tech/">Click here</a>
